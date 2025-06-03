@@ -1,0 +1,11 @@
+{
+  "labels":[
+    "move_product",
+    "check_product",
+    "add_product",
+    "delete_product",
+    "update_stock"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
